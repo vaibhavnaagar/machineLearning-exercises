@@ -30,3 +30,7 @@ curves with randomly selected examples.
 * Image Compression with K-means: K-means on pixels.
 * Principal Component Analysis: Implementing PCA.
 * Dimensionality Reduction with PCA: Projecting the data onto the principal components, reconstructing an approximation of the data, run PCA on Face Image Dataset and reduces dimensions.
+
+### Exercise-8 ###
+* Anomaly Detection: Estimating parameters for a Gaussian distribution, selecting the threshold 'ε' using cross-validation dataset.
+* Recommender Systems (Movie Rating): Collaborative filtering learning algorithm- cost function and gradient with regularization, learning movie recommendations using fmincg.
